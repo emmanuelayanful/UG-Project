@@ -1,0 +1,16 @@
+Mon Feb 24 10:11:14 SAST 2025
+run: ./testreport -t natl_box
+on : Darwin Emmanuels-MacBook-Pro-2.local 24.3.0 Darwin Kernel Version 24.3.0: Thu Jan 2 20:22:00 PST 2025; root:xnu-11215.81.4~3/RELEASE_X86_64 x86_64
+
+No "OPTFILE" was specified ; genmake2 found and uses:
+
+default 10  ----T-----  ----S-----  ----U-----  ----V-----  --PTR 01--  --PTR 02--  --PTR 03--  --PTR 04--  --PTR 05--
+G D M    c        m  s        m  s        m  s        m  s        m  s        m  s        m  s        m  s        m  s
+e p a R  g  m  m  e  .  m  m  e  .  m  m  e  .  m  m  e  .  m  m  e  .  m  m  e  .  m  m  e  .  m  m  e  .  m  m  e  .
+n n k u  2  i  a  a  d  i  a  a  d  i  a  a  d  i  a  a  d  i  a  a  d  i  a  a  d  i  a  a  d  i  a  a  d  i  a  a  d
+2 d e n  d  n  x  n  .  n  x  n  .  n  x  n  .  n  x  n  .  n  x  n  .  n  x  n  .  n  x  n  .  n  x  n  .  n  x  n  .
+
+N N N N .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. N/O   natl_box
+N N N N .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. N/O   natl_box.longstep
+Start time:  Mon Feb 24 10:11:14 SAST 2025
+End time:    Mon Feb 24 10:11:14 SAST 2025

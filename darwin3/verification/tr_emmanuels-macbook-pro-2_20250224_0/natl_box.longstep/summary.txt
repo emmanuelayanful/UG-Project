@@ -1,0 +1,2 @@
+DATE='20250224' ; tdir='natl_box.longstep'
+fresults='N N N N .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. ..  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . N/O   natl_box.longstep'

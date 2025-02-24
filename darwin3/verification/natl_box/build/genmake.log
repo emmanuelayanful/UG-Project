@@ -1,0 +1,32 @@
+
+running: find_possible_optfile()
+  The platform appears to be:  darwin_amd64
+  look for possible FORTRAN compilers
+efc -o genmake_hello genmake_hello.f
+../../../tools/genmake2: line 552: efc: command not found
+gfortran -o genmake_hello genmake_hello.f
+../../../tools/genmake2: line 552: gfortran: command not found
+g77 -o genmake_hello genmake_hello.f
+../../../tools/genmake2: line 552: g77: command not found
+f77 -o genmake_hello genmake_hello.f
+../../../tools/genmake2: line 552: f77: command not found
+pgf77 -o genmake_hello genmake_hello.f
+../../../tools/genmake2: line 552: pgf77: command not found
+pgf95 -o genmake_hello genmake_hello.f
+../../../tools/genmake2: line 552: pgf95: command not found
+ifc -o genmake_hello genmake_hello.f
+../../../tools/genmake2: line 552: ifc: command not found
+ifort -o genmake_hello genmake_hello.f
+../../../tools/genmake2: line 552: ifort: command not found
+f90 -o genmake_hello genmake_hello.f
+../../../tools/genmake2: line 552: f90: command not found
+f95 -o genmake_hello genmake_hello.f
+../../../tools/genmake2: line 552: f95: command not found
+mpif77 -o genmake_hello genmake_hello.f
+../../../tools/genmake2: line 552: mpif77: command not found
+mpf77 -o genmake_hello genmake_hello.f
+../../../tools/genmake2: line 552: mpf77: command not found
+mpxlf95 -o genmake_hello genmake_hello.f
+../../../tools/genmake2: line 552: mpxlf95: command not found
+g95 -o genmake_hello genmake_hello.f
+../../../tools/genmake2: line 552: g95: command not found

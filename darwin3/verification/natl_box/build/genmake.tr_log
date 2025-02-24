@@ -1,0 +1,23 @@
+
+GENMAKE :
+
+A program for GENerating MAKEfiles for the MITgcm project.
+   For a quick list of options, use "genmake2 -h"
+or for more detail see the documentation, section "Building the model"
+   (under "Getting Started") at:  https://mitgcm.readthedocs.io/
+
+===  Processing options files and arguments  ===
+  getting local config information:  none found
+Warning: ROOTDIR was not specified ; try using a local copy of MITgcm found at "../../.."
+  getting OPTFILE information:
+Warning: no OPTFILE specified so we'll look for possible settings
+
+===  Searching for possible settings for OPTFILE  ===
+  The platform appears to be:  darwin_amd64
+
+Error: No Fortran compilers were found in your path.  Please specify one using:
+
+    1) an "optfile" on (eg. "-optfile=path/to/OPTFILE"),
+    2) a command-line option (eg. "-fc NAME"), or
+    3) the FC or MITGCM_FC environment variables.
+
